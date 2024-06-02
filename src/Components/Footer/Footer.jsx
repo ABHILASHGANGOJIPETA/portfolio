@@ -5,7 +5,7 @@ export default function Footer() {
     <section className={styles.container}>
         <p>
             &copy; 2024 Abhilash<br/>
-            All rights are reserved by Naveen
+            All rights are reserved by Abhilash.
         </p>
     </section>
   )
